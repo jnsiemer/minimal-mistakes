@@ -563,7 +563,7 @@ pre {
     }
 
     &.copied i {
-      opacity: 0.01;
+      opacity: 0;
       &.copied {
         opacity: 1;
       }
